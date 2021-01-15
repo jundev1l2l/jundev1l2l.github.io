@@ -19,21 +19,21 @@ twitter_username:
 github_username:  jundev1l2l
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: Junhyun Park
+facebook_username: Junhyun Park
 # flickr_username: jekyll
 instagram_username: junhyun_1l2l
 linkedin_username: 
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: 
+# youtube_username: 
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a first year Combined M.S. & PhD at UNIST, Grad School of AI, advised by Sungbin Lim. My interests are in the statistical and stochastic learning. I did my undergrad at Seoul National University, Materials Science and Engineering.
+  I am a first year Combined M.S. & PhD at UNIST, Grad School of AI, advised by Sungbin Lim.
+  My interests are in statistical learning and stochastic learning.
+  I my undergrad major was Materials Science, but now I'm studying Machine Learning, Deep Learning, and AI.
 
 content:
 #   - title: Projects # Title for the section
