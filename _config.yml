@@ -9,10 +9,10 @@ version: 2
 name: Junhyun Park
 title: Combined M.S & Ph.D
 email: jun.dev.1l2l@gmail.com
-website: www.github.com/jundev1l2l/jundev1l2l.github.io
+# website: www.github.com/jundev1l2l/jundev1l2l.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: 
