@@ -46,7 +46,7 @@ linkedin_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpeg
+about_profile_image: images/profile2.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am a first year Combined M.S. & PhD at UNIST, Grad School of AI, advised by Sungbin Lim.
   My interests are in statistical learning and stochastic learning.
