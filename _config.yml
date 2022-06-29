@@ -30,13 +30,13 @@ github_username:  jundev1l2l
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
+# additional_links:
 # - title: itsgoingto.be
 #   icon: fas fa-globe
 #   url: https://www.itsgoingto.be
-- title: LIM Lab
-  icon: far fa-brain
-  url: https://sites.google.com/view/sungbin/
+# - title: LIM Lab
+#   icon: far fa-brain
+#   url: https://sites.google.com/view/sungbin/
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
