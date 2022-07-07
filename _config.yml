@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   M.S. Candidate (~2022.08) at UNIST, Graduate School of Artificial Intelligence, advised by Sungbin Lim.\
   
   My research interest is on Machine learning and Deep Learning, including
-  - Task Adaptation (Meta-Learning, Continual Learning),\
-  - Stochastic Decision-Making Problem (Reinforcement Learning, Multi-Armed Bandit),\
-  - Uncertainty Estimation (Bayesian Deep Learning, Out-of-distribution, Domain Shift).\
+  - Task Adaptation (Meta-Learning, Continual Learning)
+  - Stochastic Decision-Making Problem (Reinforcement Learning, Multi-Armed Bandit)
+  - Uncertainty Estimation (Bayesian Deep Learning, Out-of-distribution, Domain Shift)
   
   I used to study Chemistry, Physics, and Materials Science, but since 2020 I have devoted myself to AI.
 
