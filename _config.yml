@@ -123,7 +123,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Seoul National University
+        title: Seoul National University (SNU)
         caption: 2019.03 - 2020.01
         sub_title: Combined M.S & Ph.D in Carbon Nanomaterials Design Laboratory (Withdrawal)
 #         quote: >
