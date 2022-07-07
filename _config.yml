@@ -92,7 +92,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: UNIST
+        title: Ulsan National Institute of Science and Technology (UNIST)
         caption: 2020.9 - 2022.08
         sub_title: M.S in Artificial Intelligence
 #         quote: >
@@ -103,12 +103,12 @@ content:
 #           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: left
-        title: Seoul National University
+        title: Seoul National University (SNU)
         caption: 2014.03 - 2019.02
         sub_title: B.S in Materials Science and Engineering
 
       - layout: left
-        title: Korea Science Academy
+        title: Korea Science Academy (KSA)
         caption: 2011.03 - 2014.02
         sub_title: Chemistry & Physics
 #         quote: >
