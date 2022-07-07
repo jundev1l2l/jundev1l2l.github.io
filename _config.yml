@@ -48,10 +48,11 @@ github_username:  jundev1l2l
 # about_title: About Me
 about_profile_image: images/profile2.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am M.S. Candidate (~2022.08) at UNIST, Grad School of AI, advised by Sungbin Lim.
-  My research interest is on Machine learning and Deep Learning, including Task Adaptation (Meta-Learning, Continual Learning),\
-  Stochastic Decision-Making Problem (Reinforcement Learning, Multi-Armed Bandit),\
-  and Uncertainty Estimation (Bayesian Deep Learning, Out-of-distribution, Domain Shift).
+  I am M.S. Candidate (~2022.08) at UNIST, Grad School of AI, advised by Sungbin Lim.\
+  My research interest is on Machine learning and Deep Learning, including \
+  - Task Adaptation (Meta-Learning, Continual Learning),\
+  - Stochastic Decision-Making Problem (Reinforcement Learning, Multi-Armed Bandit),\
+  - Uncertainty Estimation (Bayesian Deep Learning, Out-of-distribution, Domain Shift).\
   I used to study Chemistry, Physics, and Materials Science, but since 2020 I have devoted myself to AI.
 
 content:
