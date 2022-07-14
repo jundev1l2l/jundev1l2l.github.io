@@ -9,8 +9,7 @@ version: 2
 name: Junhyun Park
 title: M.S Candidate
 email: junhyunpark1995@gmail.com
-website: chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f
-# website: www.github.com/jundev1l2l/jundev1l2l.github.io
+# website: 
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -46,7 +45,7 @@ github_username:  jundev1l2l
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: About Me 
 about_profile_image: images/profile2.jpeg
 about_content: | # this will include new lines to allow paragraphs
   M.S. Candidate (~2022.08) at UNIST, Graduate School of Artificial Intelligence, advised by Sungbin Lim.
@@ -58,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I used to study Chemistry, Physics, and Materials Science, but since 2020 I have devoted myself to AI.
   
-  Please visit [notion-page](chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f) to check my portfolio.
+  Please visit [notion-page](https://chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f) to check my portfolio.
 
 content:
 #   - title: Projects # Title for the section
