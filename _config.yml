@@ -30,10 +30,10 @@ github_username:  jundev1l2l
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+additional_links:
+- title: Portfolio (Notion)
+  icon: fas fa-square-plus
+  url: https://chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f
 # - title: LIM Lab
 #   icon: far fa-brain
 #   url: https://sites.google.com/view/sungbin/
