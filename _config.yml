@@ -9,6 +9,9 @@ version: 2
 name: Junhyun Park
 title: M.S Candidate
 email: junhyunpark1995@gmail.com
+portfolio: 
+  link_text: Notion
+  link: https://chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f
 # website: www.github.com/jundev1l2l/jundev1l2l.github.io
 
 # Dark Mode (true/false/never)
@@ -29,11 +32,11 @@ github_username:  jundev1l2l
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: Portfolio (Notion)
-  icon: far fa-brain
-  url: https://chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f
+# # Additional icon links
+# additional_links:
+# - title: Portfolio (Notion)
+#   icon: far fa-brain
+#   url: https://chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f
 # - title: LIM Lab
 #   icon: far fa-brain
 #   url: https://sites.google.com/view/sungbin/
