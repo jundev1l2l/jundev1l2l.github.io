@@ -9,9 +9,7 @@ version: 2
 name: Junhyun Park
 title: M.S Candidate
 email: junhyunpark1995@gmail.com
-portfolio: 
-  link_text: notion-page
-  link: https://chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f
+portfolio: chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f
 # website: www.github.com/jundev1l2l/jundev1l2l.github.io
 
 # Dark Mode (true/false/never)
