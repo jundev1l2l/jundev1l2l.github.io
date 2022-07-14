@@ -22,7 +22,7 @@ github_username:  jundev1l2l
 # facebook_username: Junhyun Park
 # flickr_username: jekyll
 # instagram_username: junhyun_1l2l
-# linkedin_username: 
+linkedin_username: junhyun-park-428b50226
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: 
@@ -32,7 +32,7 @@ github_username:  jundev1l2l
 # Additional icon links
 additional_links:
 - title: Portfolio (Notion)
-  icon: fas fa-square-plus
+  icon: far fa-square-plus
   url: https://chivalrous-feta-21d.notion.site/6523a48cf4ec45da940e536b57d61d9f
 # - title: LIM Lab
 #   icon: far fa-brain
